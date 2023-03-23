@@ -3,4 +3,7 @@ This is my first git command
 This is just a change - I have added one more line to the existing file
 
 echo "This is the first line of the file 'just trying to add more file'
+
 This is the second line that i'm trying to add to the file 'file1.txt'
+
+Adding another line to modify the change
