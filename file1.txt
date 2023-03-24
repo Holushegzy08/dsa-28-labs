@@ -1,9 +1,9 @@
 This is my first git command
-
+======================================================================
 This is just a change - I have added one more line to the existing file
-
+Just trying to get familiar with git
 echo "This is the first line of the file 'just trying to add more file'
-
+This is another change - I have added another line
 This is the second line that i'm trying to add to the file 'file1.txt'
-
+I am now working on this file
 Adding another line to modify the change
