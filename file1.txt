@@ -7,3 +7,7 @@ This is another change - I have added another line
 This is the second line that i'm trying to add to the file 'file1.txt'
 I am now working on this file
 Adding another line to modify the change
+
+Yes, I have fetched the file from Github project repository
+Also, I have worked on this file, tested it and going to push it back to the Github repository
+**********************************************************************
